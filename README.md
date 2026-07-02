@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, my name is <b>Gnapika</b>! 👋</h1>
+  <h1>Hello, my name is <b>Gnapika</b>! 👋</h1>
   <p><b>Computer Science & Engineering Student | Aspiring Software Engineer</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=Gnapika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
